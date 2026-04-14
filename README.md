@@ -1,6 +1,6 @@
 # loganbryan-portfolio
 
-Minimal Vite + React + TypeScript portfolio app for Logan Bryan.
+Minimal Vite + React + TypeScript portfolio app 
 
 ## Run
 
