@@ -1,0 +1,24 @@
+LOGAN BRYAN
+Systems-minded product engineer
+
+Focus
+- Frontend systems and interface architecture
+- API design, generated clients, and service boundaries
+- Backend reliability, integration workflows, and operational safeguards
+- Cloud-aware delivery with an emphasis on clarity and maintainability
+
+Capabilities
+- React and TypeScript application architecture
+- Backend integration design and contract-first delivery
+- Performance, reliability, and production hardening
+- Cross-layer product execution from UX through deployment concerns
+
+Selected Positioning
+- Builds products that stay understandable under operational pressure
+- Prefers typed contracts, measurable systems, and explicit boundaries
+- Comfortable moving across frontend, backend, database, and deployment concerns
+
+Links
+- GitHub: https://github.com/loganbryanx
+- Portfolio: https://github.com/loganbryanx/loganbryan-portfolio
+- Email: loganbdev@proton.me
